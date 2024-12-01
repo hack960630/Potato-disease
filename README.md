@@ -1,1 +1,1 @@
-# Potato-disease
+# Potato-disease classification using Deep learning
